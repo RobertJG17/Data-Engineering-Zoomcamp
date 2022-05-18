@@ -5,3 +5,4 @@
 /output.parquet
 /source
 /data-migration-postgres.ipynb
+.DS_Store
