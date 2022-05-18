@@ -1,0 +1,7 @@
+/ipynb_checkpoints
+/env
+/sql-queries
+/zones.csv
+/output.parquet
+/source
+/data-migration-postgres.ipynb
